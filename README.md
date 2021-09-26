@@ -5,7 +5,7 @@
 <br><br>
 Add a new screen to your existing portfolio app and Build a new news UI as Task 3
 
-Create an attractive single screen news UI with flutter and push your codes and a screenshot of your app to a seperate folder with your name within the forked version of the below repository. *The folder name should be your name*.
+Create an attractive single screen news UI with flutter and push your codes and a screenshot of your app to a separate folder with your name within the forked version of the below repository. *The folder name should be your name*.
 
 **Repo link: https://github.com/Built-In-Flutter/BuiltInFlutter-Task-3**
 
